@@ -34,21 +34,21 @@
 ### 📲 Installation
 
 1. Clone the repository:
-    \`\`\`bash
+    ```bash
     git clone https://github.com/your-username/AI-Assistance-App.git
-    \`\`\`
+    ```
 2. Navigate to the project directory:
-    \`\`\`bash
+    ```bash
     cd AI-Assistance-App
-    \`\`\`
+    ```
 3. Install dependencies:
-    \`\`\`bash
+    ```bash
     flutter pub get
-    \`\`\`
+    ```
 4. Run the app:
-    \`\`\`bash
+    ```bash
     flutter run
-    \`\`\`
+    ```
 
 ## 🤝 Contributing
 
