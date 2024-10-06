@@ -17,7 +17,7 @@ class _HomePageState extends State<HomePage> {
 
   final model = GenerativeModel(
     model: 'gemini-1.5-flash',
-    apiKey: 'AIzaSyCRsZhDX_ehdFHDjihenkODPMAlmaLjT_Q',
+    apiKey: 'YOUR-API',
   );
   String? aiResponse;
   String? myMessage;
